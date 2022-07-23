@@ -5,6 +5,8 @@
 [![Package Doc][package-doc-img-url]][package-doc-url] 
 [![Releases][release-img-url]][release-url]
 
+**This library is not maintained anymore. See [github.com/halimath/expect-go](https://github.com/halimath/expect-go) for its successor.***
+
 
 A library for writing test assertions using golang 1.18 generics to provide a fluent, readable and type-safe 
 assertions.
